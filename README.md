@@ -24,7 +24,7 @@ Analysis Tools 💯
 
 What's Next?
 
-I'm eager to continue expanding my skillset and diving into new challenges. Stay tuned for updates as I embark on my next sprint!
+I'm eager to continue expanding my skillset and diving into new challenges. Stay tuned for updates as I embark on my next project!
 
 Let's Connect!
 
