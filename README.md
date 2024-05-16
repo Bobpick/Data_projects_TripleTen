@@ -55,7 +55,7 @@ Tableau for data visualization.
 [Link to Dashboard](https://public.tableau.com/views/Final_Project_17146155485020/Education_sale?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Demo Video
-[Link to Demo Video](/path/to/demo_video.mp4)
+[Link to Demo Video](/[path/to/demo_video.mp4](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Recording%202024-05-16%20145423.mp4))
 
 ## Deployment and System Requirements
 To view the results, you will need:
