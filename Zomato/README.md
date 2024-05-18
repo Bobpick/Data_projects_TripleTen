@@ -45,12 +45,6 @@ Individuals with graduate and post-graduate degrees are the biggest spenders, ou
 
 Tableau for data visualization.
 
-
-## Screenshots
-
-![Screenshot 1]([/path/to/screenshot1.png](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Screenshot%202024-05-07%20101633.png))
-![Screenshot 2]([/path/to/screenshot2.png](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Screenshot%202024-05-07%20103756.png))
-
 ## Project Page
 [Link to Dashboard](https://public.tableau.com/views/Final_Project_17146155485020/Education_sale?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
