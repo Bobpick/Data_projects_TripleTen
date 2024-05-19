@@ -19,3 +19,6 @@ This project encompasses the creation of a comprehensive Power BI Dashboard, spa
 The project commenced with an initial exploration of the app store landscape, utilizing KPI cards and charts to highlight key metrics.
 Subsequently, review data was cataloged and analyzed through the utilization of cards and charts, facilitating a comprehensive understanding of user sentiments.
 Finally, an analysis of app developers across various review types was conducted, shedding light on developer performance and user feedback dynamics.
+
+### Video Presentation:
+You can find the video presentation of the project [here](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Shopify/Shopify.mp4).
