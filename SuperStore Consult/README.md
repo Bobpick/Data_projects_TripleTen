@@ -15,3 +15,6 @@ The project workflow involved several key steps:
 Data consolidation: Sheets were joined to streamline data analysis.
 Identification of profit and loss centers: Various metrics were examined to pinpoint areas of profitability and loss within the business.
 Analysis of the impact of returns on profits: An investigation was conducted into how returns are affecting overall profitability.
+
+### Video Presentation:
+You can find the video presentation of the project [here](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/SuperStore%20Consult/Consult.mp4).
