@@ -22,3 +22,7 @@ The project methodology involved several key stages:
 ### Findings
 
   In summary, my analysis of the vacation rental market in Manhattan's Lower East Side reveals promising investment opportunities for our client. By scrutinizing Airbnb data and focusing on properties with ratings of 4.5 or higher, we've identified a segment characterized by consistent high occupancy rates and substantial annual income, particularly in two-bedroom accommodations. The observation that Friday is the most popular day for rentals further enhances the strategic potential of this market. We recommend prioritizing investments in this area, leveraging its reputation for quality accommodations and favorable rental dynamics. This analysis not only provides valuable insights for our client's decision-making process but also highlights the potential for lucrative returns in Manhattan's vibrant vacation rental market.
+
+
+  ### Video Presentation:
+You can find the video presentation of the project [here](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Vacation%20Rental%20Market/Vacation.mp4).
