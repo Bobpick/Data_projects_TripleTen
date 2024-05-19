@@ -20,3 +20,6 @@ Subsequently, I constructed a comprehensive conversion funnel to track user inte
 The data was then prepared for cohort analysis to discern long-term behavioral trends.
 Retention rates were calculated to gauge customer loyalty and engagement.
 Finally, meticulous attention was devoted to formatting and documentation, ensuring clarity and ease of interpretation for the client.
+
+### Video Presentation:
+You can find the video presentation of the project [here](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/E-commerce%20Company/Ecommerce.mp4).
