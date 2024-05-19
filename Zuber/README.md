@@ -19,3 +19,6 @@ The project methodology involved the following steps:
   Categorization of weather conditions by hour.
   Retrieval of rides from the Loop to O'Hare on Saturdays, including weather data and ride duration.
   Sorting of the obtained results for further analysis.
+
+### Video Presentation:
+You can find the video presentation of the project [here](https://github.com/Bobpick/Data_projects_TripleTen/blob/main/Zuber/Zuber.mp4).
